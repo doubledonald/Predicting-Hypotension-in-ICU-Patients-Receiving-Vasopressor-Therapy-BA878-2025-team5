@@ -1,7 +1,5 @@
 # Predicting-Hypotension-in-ICU-Patients-Receiving-Vasopressor-Therapy-BA878-2025-team5
 
-# Predicting Hypotension in ICU Patients: A Deep Learning Approach
-
 > **Course:** BA878: Machine Learning and Data Infrastructure in Healthcare (Boston University, Fall 2025)  
 > **Team 5:** Aaryan Bammi, Pushpraj Singh, Yimeng Dong
 
